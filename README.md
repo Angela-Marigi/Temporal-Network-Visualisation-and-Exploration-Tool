@@ -1,1 +1,1 @@
-# Temporal-Network-Viualisation-Exploration-Tool
+# Temporal-Network-Visualisation-Exploration-Tool
